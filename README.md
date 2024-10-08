@@ -1,4 +1,4 @@
-<h1 align="center">Sales Insights - Data Analysis using Tableau & SQL <a 
+<h1 align="center">Sales Insights - Data Analysis using Tableau & SQL <a <h1
 
 **I am sharing India based Hardware company Sales Insights - A Data Analysis Project performed on Tableau & SQL in my journey into Data Science.** 
 
@@ -46,8 +46,6 @@ An automated dashboard providing quick & latest sales insights in order to suppo
 - Sales team able to take better decision & prove 10% cost savings of total spend.
 - Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
 
-### Data Analysis - Approach
-<p  align="center"><a href="https://github.com/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/flow.jpg" /></a></p>
 
 ### Setup Process
   
@@ -99,17 +97,7 @@ Step 5: Save the file as (.twb or .twbx)
 1. Show total revenue in year 2020 in Chennai.
 
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020and transactions.market_code="Mark001";`
-
-
-## Data Analysis Using Tableau 
-
-#### Creating Star Schema in Tableau
-	
-<p  align="center"><a href="https://public.tableau.com/app/profile/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Star%20Schema.png" /></a></p>
-
-#### Tableau Dashboard
-	
-<p  align="center"><a href="https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link"><img width="100%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png" /></a></p>
+src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Tableau%20Dashbpard%20Revenue%20Analysis.png" /></a></p>
 
 
 
