@@ -1,4 +1,4 @@
-<h1 align="center">Sales Insights - Data Analysis using Tableau & SQL <a href="https://public.tableau.com/app/profile/mrankitgupta" target="_blank" rel="noreferrer"> <img src="https://public.tableau.com/app/discover" alt="tableau" width="55" height="40"/> </a> </h1>
+<h1 align="center">Sales Insights - Data Analysis using Tableau & SQL <a 
 
 **I am sharing India based Hardware company Sales Insights - A Data Analysis Project performed on Tableau & SQL in my journey into Data Science.** 
 
