@@ -15,7 +15,8 @@
   
 ### [Tableau Dashboard Link](https://prod-apnortheast-a.online.tableau.com/#/site/gurmeshsingh120-38da3b6757/views/SalesInsights/SalesDashboard?:iid=3)  🔗
 
-<img width="671" alt="Screenshot 2024-10-27 at 7 34 21 AM" src="https://github.com/user-attachments/assets/32d8a1b8-e268-4337-ad0e-19172d508de1">
+<img width="1250" alt="Screenshot 2024-11-17 at 9 10 30 PM" src="https://github.com/user-attachments/assets/054aa4a0-a31c-4fc7-9f3e-543c5a4893cc">
+
 
 ### Problem Statements
 Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
