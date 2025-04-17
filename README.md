@@ -13,7 +13,7 @@
 
 ## Project - India based Hardware company Sales Insights - Data Analysis performed on Tableau & SQL
   
-### [Tableau Dashboard Link](https://prod-apnortheast-a.online.tableau.com/#/site/gurmeshsingh120-38da3b6757/views/SalesInsights/SalesDashboard?:iid=3)  🔗
+### [Tableau Dashboard Link]
 
 <img width="1250" alt="Screenshot 2024-11-17 at 9 10 30 PM" src="https://github.com/user-attachments/assets/054aa4a0-a31c-4fc7-9f3e-543c5a4893cc">
 
