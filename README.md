@@ -13,7 +13,7 @@
 
 ## Project - India based Hardware company Sales Insights - Data Analysis performed on Tableau & SQL
   
-### [Tableau Dashboard Link]
+### [Tableau Dashboard Preview]
 
 <img width="1250" alt="Screenshot 2024-11-17 at 9 10 30 PM" src="https://github.com/user-attachments/assets/054aa4a0-a31c-4fc7-9f3e-543c5a4893cc">
 
